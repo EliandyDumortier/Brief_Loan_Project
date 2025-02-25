@@ -133,9 +133,7 @@ BRIEF_LOAN_PROJECT/
 ## Contributing
 
 Feel free to fork this repository, improve the code, and submit pull requests. For any issues or suggestions, please open an issue.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 ---
